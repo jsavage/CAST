@@ -9,64 +9,20 @@ to be answered and what information needs to be gathered during the investigatio
 comprehensive explanation as to why the loss occurred and to help formulate recommendations to
 prevent related accidents in the future.
 
-
 Because the cause of an accident is defined in STAMP to be a safety control structure that did not
 prevent the loss, then the goal of the accident investigation is to identify why the safety control
 structure was unable to enforce the safety constraint that was violated and to determine what changes
 in the control structure are required to prevent a related loss in the future. In most cases, investigators
 will find that there was inadequate control provided at all levels of the safety control structure, not just
-
 the lower levels.
 
-
 CAST has five parts:
+*Assemble Basic Information
+*Analyse Safety Control Structure
+*Analyse Each Component in Loss
+*Identify Control Structure Flaws
+*Create Improvement Programme
 
-
-
-
-
-
-
-
-
-
-
-
-
-System
-Boundary
-
-
-Environment
-
-
-
-Environmental, …
-
-
-Questions
-
-
-
-
-
-
-
-Events
-
-
-Physical Loss
-
-
-Questions
-
-
-
-
-
-14 It is unfortunate that the same acronym is used for Commercial Aviation Safety Team. Both uses have existed for
-so long that there does not seem to be a simple solution. In this handbook, CAST is always used to mean Causal
-Analysis based on System Theory.
 
 
 34
@@ -124,19 +80,16 @@ provide the basic information for the later activities and probably need to be a
 attempting the other parts. As more is learned during the investigation, analyses will be revisited and
 results changed or holes filled in.
 
-
 Each step involves generating questions to answer later as more is learned. The questions will help
 the investigators determine what more needs to be learned to explain in depth why the loss occurred.
 The goal at the end of the investigation is to be able to answer all the questions or to determine that
 they are unanswerable. The answers to the questions will provide the “why’s” for the events.
-
 
 A required format for recording the results of the analysis is not provided in this handbook. Different
 formats may be appropriate in different situations. Some examples are provided at the end of the
 chapter but you may find a better format for your purposes. In addition, some industries, such as
 aviation, have a required format and contents for the final investigation report, which may influence the
 format for the CAST analysis itself.
-
 
 A running example analysis is used in this handbook to explain the CAST process. It is a real accident:
 an explosion of a chemical reactor and a fire on June 3, 2014 at the Shell Moerdijk plant in the
@@ -169,41 +122,8 @@ The rest of this chapter describes how each of the CAST process steps is perform
 accident. I recommend that you take an accident with which you are familiar and go through the CAST
 steps yourself on that accident as you read the explanation and the examples.
 
-### **Assembling the Foundational Information**
+### **Step 1 - Assembling the Foundational Information**
 
-
-
-
-
-
-
-
-
-
-
-
-
-**Boundary**
-
-
-
-**Accident**
-
-**Hazards**
-
-**Constraints**
-
-**Events**
-
-**Physical Loss**
-
-**Questions**
-
-
-
-
-
-**Environment**
 
 
 
